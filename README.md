@@ -1,2 +1,4 @@
-Göncöl
+Göncöl béla 
+személyszállító kisiparos 
+
 
