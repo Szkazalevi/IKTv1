@@ -1,4 +1,4 @@
-Göncöl béla 
-személyszállító kisiparos 
+goncol szeker
+Goncol Bela szemelyszallito kisiparos
 
 
