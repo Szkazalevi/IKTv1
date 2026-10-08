@@ -19,13 +19,19 @@ img {
     width: 500px;
     float: right;
 }
-
-nav,
-ul,
-a {
-
+nav ul { 
     background-color: antiquewhite;
+}
+
+nav ul a {
+
     display: inline-block;
     color: black;
     text-decoration: none;
+}
+
+main {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
 }
