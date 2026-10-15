@@ -1,13 +1,14 @@
 table {
     border: 4px solid;
     border-radius: 20px;
-    background-color: aqua;
-    border-color: brown;
+    background-color: cyan;
+    border-color: rgb(165, 42, 42);
 }
 
-tbody,
-td,
+tbody
+td
 th {
+    
     border-color: red;
     border: 4px;
 }
@@ -31,7 +32,11 @@ nav ul a {
 }
 
 main {
+    background-color: lightblue;
     width: 90%;
     max-width: 1000px;
     margin: auto;
+}
+body{
+    background-color: rgb(174, 234, 236);
 }
